@@ -1,8 +1,6 @@
 fun main(){
-
     var besucher1 = Besucher("Franz", 15, "männlich")
     var tier1 = Tier("Helga", 12, "weiblich", 35.3)
-
 
     besucher1.vorstellen()
     println()

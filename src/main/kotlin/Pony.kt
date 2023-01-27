@@ -16,5 +16,4 @@ class Pony(name: String, alter: Int, geschlecht: String, gewicht: Double, geschw
             println("Hallo ${besucher.name}!\nDu musst mindestens 6 Jahre alt sein um mich zu reiten!")
         }
     }
-
 }
